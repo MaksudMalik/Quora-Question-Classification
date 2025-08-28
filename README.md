@@ -47,7 +47,7 @@ This project tackles the [Kaggle competition](https://www.kaggle.com/competition
 ---
 
 ## Acknowledgments
-- [Kaggle Quora Insincere Questions Classification](https://www.kaggle.com) for the dataset.  
+- [Kaggle](https://www.kaggle.com) for the dataset.  
 - [HuggingFace Transformers](https://huggingface.co/transformers/) for pretrained models.  
 
 ---
